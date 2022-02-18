@@ -1,0 +1,25 @@
+#list-option a{
+    color:white;
+    margin-left: 20px;
+}
+#list-option a:hover{
+   text-decoration: none;
+}
+#pwd:hover{
+    outline: black 6px;
+    border:2px black solid;
+    outline-color: black;
+    box-shadow: none;
+}
+#email:hover{
+     outline: black 6px;
+       border:2px black solid;
+      outline-color: black;
+       box-shadow: none;
+
+}
+#email,#pwd{
+    border-color: black 0.01px;
+    box-shadow: none;
+    outline-color: black;
+}
